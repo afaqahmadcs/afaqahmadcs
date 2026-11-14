@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/AFAQ%20AHMAD-0B1220?style=for-the-badge&labelColor=0B1220" />
+
 
 # AFAQ AHMAD
 
